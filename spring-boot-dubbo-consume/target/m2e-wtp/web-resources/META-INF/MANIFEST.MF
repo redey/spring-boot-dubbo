@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-dubbo-consume
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: qiglin
+Implementation-Vendor-Id: com.spring.boot.dubbo
+Build-Jdk: 1.8.0_92
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ dubbo/spring-boot-dubbo-consume/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
